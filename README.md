@@ -6,8 +6,6 @@ GIT learning
 text
 
 
-### another subtitles
-
 
 just another line
 <<<<<<< Updated upstream
@@ -15,7 +13,7 @@ just another line
 
 
 
-Another edit to go in the Branch called Best Branch
+Something else written here to mess us up!
 
 Committed in best branch pt 2 (with summary)
 >>>>>>> Stashed changes
