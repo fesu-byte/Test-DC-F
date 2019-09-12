@@ -15,10 +15,8 @@ just another line
 
 
 
-Another edit to go in the Branch called Best Branch
+Ravi has changed this line to something else
 
-Committed in best branch pt 2 (with summary)
->>>>>>> Stashed changes
 
 Oh my god this is so exciting!!
 
