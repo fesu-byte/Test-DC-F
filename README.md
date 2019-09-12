@@ -7,16 +7,8 @@ text
 
 
 
-just another line
-<<<<<<< Updated upstream
-=======
+THIS IS ALL RUBBISH
 
-
-
-Something else written here to mess us up!
-
-Committed in best branch pt 2 (with summary)
->>>>>>> Stashed changes
 
 Oh my god this is so exciting!!
 
